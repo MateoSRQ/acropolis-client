@@ -1,5 +1,35 @@
-.page {
+.page1 {
     width: 100%;
     height: 100%;
-    background-color: #61dafb;
+    background: radial-gradient(ellipse at 125% 125%,rgba(182, 182, 182, 1), #ffffff00);
+    position: absolute;
+}
+
+.page2 {
+    width: 100%;
+    height: 100%;
+    background: radial-gradient(ellipse at 0% 0%,#0061ff80, #ffffff00);
+    position: absolute;
+}
+
+
+/*.page3 {*/
+/*    width: 100%;*/
+/*    height: 100%;*/
+/*    background: radial-gradient(ellipse at 0% 125%,#e6baba, #f3dddd80, #ffffff00);*/
+/*    position: absolute;*/
+/*}*/
+
+.page4 {
+    width: 100%;
+    height: 100%;
+    background: radial-gradient(ellipse at 125% 125%,rgba(168, 168, 168, 1), rgba(230,227,227,0));
+    position: absolute;
+}
+
+.page5 {
+    width: 100%;
+    height: 100%;
+    background: radial-gradient(ellipse at 50% 50%,#ffffff, rgba(255,255,255,.7),  rgba(255,255,255,0));
+    position: absolute;
 }
